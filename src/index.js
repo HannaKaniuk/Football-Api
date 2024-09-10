@@ -1,4 +1,3 @@
-// src/index.js
 async function fetchMatches() {
     try {
         const response = await fetch('/matches');
